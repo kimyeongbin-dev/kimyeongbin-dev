@@ -15,14 +15,14 @@
 ## 주요 프로젝트
 
 - **DownForce / Doseph**: 처방전 OCR, 복약 안내, 상담 챗봇 서비스. 약 정보 조회를 LLM 생성에서 DB 검색으로 바꿔 8~15초에서 50ms 미만으로 단축. pgvector RAG, OpenAI Function Calling, Redis Queue 기반 AI Worker. [팀 저장소](https://github.com/AI-HealthCare-02/AI_02_06) / [개인 개선](https://github.com/kimyeongbin-dev/Doseph)
-- **FertileAI**: 데이콘 X 오즈코딩스쿨 AI 헬스케어 해커톤 2위. 난임 시술 데이터 25만 건으로 임신 성공 예측, ROC-AUC 0.7420. [Repo](https://github.com/kimyeongbin-dev/OZ-FertileAI)
+- **FertileAI**: DACON「난임 환자 대상 임신 성공 여부 예측 AI 해커톤」 2등. 난임 시술 데이터 25만 건으로 임신 성공 확률 예측, AutoGluon 최종 모델과 bagging·스태킹 수동 재현, Public LB ROC-AUC 0.74203. [Repo](https://github.com/kimyeongbin-dev/FertileAI) / [팀 저장소](https://github.com/kimyeongbin-dev/OZ-FertileAI)
 - **SnapSheet**: Gemini Vision으로 가계부 사진을 지출 내역으로 바꾸는 웹앱. Supabase PostgreSQL, SQLModel 비동기 DB 계층. [Repo](https://github.com/kimyeongbin-dev/SnapSheet)
 - **MobilLax**: 졸업 작품. 대중교통 통합 경로 예매 플랫폼. 버스, 전철 공공 API 연동, 장바구니, PortOne 테스트 결제. [Repo](https://github.com/kimyeongbin-dev/MobilLax)
 
 ## 학력 · 자격 · 수상
 
 - 강원대학교 컴퓨터공학과 졸업 (2020.03 - 2026.02, 학점 3.75 / 4.5)
-- 데이콘 X 오즈코딩스쿨 AI 헬스케어 해커톤 2위 (2026.03), ROC-AUC 0.7420
+- DACON「난임 환자 대상 임신 성공 여부 예측 AI 해커톤」 2등 (DACON Education × 오즈코딩스쿨, 2026.03), Public LB ROC-AUC 0.74203
 - 정보처리기사 (2026.09), SQLD (2025.09), 컴퓨터활용능력 2급 (2026.09)
 - 오즈코딩스쿨 AI 헬스케어 부트캠프 수료 (2025.11 - 2026.05)
 
